@@ -1,0 +1,26 @@
+{
+	"contentrating" : "Everyone",
+	"description" : "노래를 최대 10개까지 추가 하실 수 있습니다.\n\n노래의 이름은 1부터 10까지로 정해야 하며 포맷은 ogg여야합니다.\n\nex) 1.ogg, 2.ogg ... 10.ogg\n\n노래 폴더 경로 : Steam\\steamapps\\workshop\\content\\431960\\이 바탕화면이 든 폴더\\mysongs \n\n도움 : Argo So, Frozens\n\n(구글 크롬 기반, 1920 x 1080 전용)\n\nfont updated 2020.12.01",
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0 0 0"
+			}
+		}
+	},
+	"preview" : "preview.jpg",
+	"tags" : [ "Anime" ],
+	"title" : "명일방주 (明日方舟 -Arknights-)",
+	"type" : "web",
+	"version" : 0,
+	"visibility" : "public",
+	"workshopid" : "1186010785",
+	"workshopurl" : "steam://url/CommunityFilePage/1186010785"
+}
